@@ -2,8 +2,42 @@
 ### This Repo contains all the scripts to reproduce figures from the manuscript in companion with the dataset found at XXXX[URL HERE] for files larger than allowable on Github
 
 ## Table of Contents
-1. [Figure 4](https://github.com/vvoelz/FOXO1-folding/tree/master/Paper_scripts/Figure_4): FES,ITS,Eigenvectors
-2. [Figure 5](https://github.com/vvoelz/FOXO1-folding/tree/master/Paper_scripts/Figure_5): Secondary Structure map & Contact map.
-3. [Figure 7](https://github.com/vvoelz/FOXO1-folding/tree/master/Paper_scripts/Figure_7): Comaprison of HT model, alchem. FEP, & FOLDX.
-4. [tm2ddG](https://github.com/vvoelz/FOXO1-folding/tree/master/Paper_scripts/tm2ddG): Convert tm to ddG.
-5. [HT Model](https://github.com/vvoelz/FOXO1-folding/tree/master/Paper_scripts/HT_model): Calculate ddG using HT model.
+### 1. [Figure 4](./Figure_4): FES,ITS,Eigenvectors
+
+<p align="center">
+  <a href="./Figure_4">
+  <img src="Figure_4/Figure4_nolabels.png" width="50%" height="50%"/>
+  </a>
+</p>
+
+### 2. [Figure 5](./Figure_5): Secondary Structure map & Contact map.
+
+<p align="center">
+  <a href="./Figure_5">
+  <img src="Figure_5/Figure_5.png" width="50%" height="50%"/>
+  </a>
+</p>
+
+### 3. [Figure 7](./Figure_7): Comaprison of HT model, alchem. FEP, & FOLDX.
+
+<p align="center">
+  <a href="./Figure_7">
+  <img src="Figure_7/Figure7.png" width="50%" height="50%"/>
+  </a>
+</p>
+
+### 4. [tm2ddG](./tm2ddG): Convert tm to ddG.
+
+<p align="center">
+  <a href="./tm2ddG">
+  <img src="tm2ddG/simpleg.png" width="50%" height="50%" />
+  </a>
+</p>
+
+### 5. [HT Model](./HT_model) : Calculate ddG using HT model.
+
+<p align="center">
+  <a href="./HT_model">
+  <img src="HT_model/HT_model.png" width="50%" height="50%" />
+  </a>
+</p>
