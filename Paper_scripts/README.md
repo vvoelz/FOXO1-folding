@@ -2,7 +2,7 @@
 ### This Repo contains all the scripts to reproduce figures from the manuscript in companion with the dataset found at XXXX[URL HERE] for files larger than allowable on Github
 
 ## Table of Contents
-### 1. [Figure 4](./Figure_4): FES,ITS,Eigenvectors
+### [Figure 4](./Figure_4): FES,ITS,Eigenvectors
 
 <p align="center">
   <a href="./Figure_4">
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-### 2. [Figure 5](./Figure_5): Secondary Structure map & Contact map.
+### [Figure 5](./Figure_5): Secondary Structure map & Contact map.
 
 <p align="center">
   <a href="./Figure_5">
@@ -18,7 +18,15 @@
   </a>
 </p>
 
-### 3. [Figure 7](./Figure_7): Comaprison of HT model, alchem. FEP, & FOLDX.
+### [Figure 6](./Figure_6): SASA Comparison of states and FEP tripeptide model for mutant residues.
+
+<p align="center">
+  <a href="./Figure_6">
+  <img src="Figure_6/sasa_mut_bar.png" width="50%" height="50%"/>
+  </a>
+</p>
+
+### [Figure 7](./Figure_7): Comaprison of HT model, alchem. FEP, & FOLDX.
 
 <p align="center">
   <a href="./Figure_7">
@@ -26,7 +34,7 @@
   </a>
 </p>
 
-### 4. [tm2ddG](./tm2ddG): Convert tm to ddG.
+### [tm2ddG](./tm2ddG): Convert tm to ddG.
 
 <p align="center">
   <a href="./tm2ddG">
@@ -34,7 +42,7 @@
   </a>
 </p>
 
-### 5. [HT Model](./HT_model) : Calculate ddG using HT model.
+### [HT Model](./HT_model) : Calculate ddG using HT model.
 
 <p align="center">
   <a href="./HT_model">
