@@ -34,14 +34,6 @@
   </a>
 </p>
 
-### [Figure S1](./DSCvTSA): Comaprison of HT model, alchem. FEP, & FOLDX.
-
-<p align="center">
-  <a href="./DSCvTSA">
-  <img src="DSCvTSA/DSCvTSA.png" width="50%" height="50%"/>
-  </a>
-</p>
-
 ### [tm2ddG](./tm2ddG): Convert tm to ddG.
 
 <p align="center">
@@ -55,5 +47,13 @@
 <p align="center">
   <a href="./HT_model">
   <img src="HT_model/HT_model.png" width="50%" height="50%" />
+  </a>
+</p>
+
+### [Figure S1](./DSCvTSA): Comaprison of HT model, alchem. FEP, & FOLDX.
+
+<p align="center">
+  <a href="./DSCvTSA">
+  <img src="DSCvTSA/DSCvTSA.png" width="50%" height="50%"/>
   </a>
 </p>
