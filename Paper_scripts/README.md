@@ -50,7 +50,7 @@
   </a>
 </p>
 
-### [Figure S1](./DSCvTSA): Comaprison of HT model, alchem. FEP, & FOLDX.
+### [Figure S1](./DSCvTSA): Tm for DSC and TSA.
 
 <p align="center">
   <a href="./DSCvTSA">
