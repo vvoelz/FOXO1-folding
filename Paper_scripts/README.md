@@ -58,10 +58,26 @@
   </a>
 </p>
 
-### [Figure S3](./Figure_S3): Tm for DSC and TSA.
+### [Figure S3](./Figure_S3): State Transition Counts.
 
 <p align="center">
   <a href="./Figure_S3">
   <img src="Figure_S3/counts.png" width="50%" height="50%"/>
+  </a>
+</p>
+
+### [Figure S6](./Figure_S6): Forward and Backwards Convergence of FEP.
+
+<p align="center">
+  <a href="./Figure_S6">
+  <img src="Figure_S6/SI_Figure1.png" width="50%" height="50%"/>
+  </a>
+</p>
+
+### [Figure S7](./Figure_S7): Overlap Matrix for FEP.
+
+<p align="center">
+  <a href="./Figure_S7">
+  <img src="Figure_S7/SI_Figure2.png" width="50%" height="50%"/>
   </a>
 </p>
