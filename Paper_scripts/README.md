@@ -2,6 +2,14 @@
 ### This Repo contains all the scripts to reproduce figures from the manuscript in companion with the dataset found at XXXX[URL HERE] for files larger than allowable on Github
 
 ## Table of Contents
+### [Figure 3](./Figure_3): FEP v. Tm
+
+<p align="center">
+  <a href="./Figure_3">
+  <img src="Figure_3/Figure3.png" width="50%" height="50%"/>
+  </a>
+</p>
+
 ### [Figure 4](./Figure_4): FES,ITS,Eigenvectors
 
 <p align="center">
