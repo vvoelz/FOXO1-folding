@@ -71,11 +71,11 @@
   </a>
 </p>
 
-### [Figure S2](./Figure_S2,4): Tm for DSC and TSA.
+### [Figure S2](./figure_S2,4): Tm for DSC and TSA.
 
 <p align="center">
-  <a href="./Figure_S2,4">
-  <img src="Figure_S2,4/initial_confs.png" width="50%" height="50%"/>
+  <a href="./figure_S2,4">
+  <img src="figure_S2,4/initial_confs.png" width="50%" height="50%"/>
   </a>
 </p>
 
@@ -87,11 +87,11 @@
   </a>
 </p>
 
-### [Figure S4](./Figure_S2,4): Tm for DSC and TSA.
+### [Figure S4](./figure_S2,4): Tm for DSC and TSA.
 
 <p align="center">
-  <a href="./Figure_S2,4">
-  <img src="Figure_S2,4/example_trajectories.png" width="50%" height="50%"/>
+  <a href="./figure_S2,4">
+  <img src="figure_S2,4/example_trajectories.png" width="50%" height="50%"/>
   </a>
 </p>
 
