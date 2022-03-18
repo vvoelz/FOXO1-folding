@@ -71,7 +71,7 @@
   </a>
 </p>
 
-### [Figure S2](./figure_S2,4): Tm for DSC and TSA.
+### [Figure S2](./figure_S2,4): Startting Structures in TICA space.
 
 <p align="center">
   <a href="./figure_S2,4">
@@ -87,7 +87,7 @@
   </a>
 </p>
 
-### [Figure S4](./figure_S2,4): Tm for DSC and TSA.
+### [Figure S4](./figure_S2,4): Transition TICA projections.
 
 <p align="center">
   <a href="./figure_S2,4">
@@ -108,5 +108,21 @@
 <p align="center">
   <a href="./Figure_S7">
   <img src="Figure_S7/SI_Figure2.png" width="50%" height="50%"/>
+  </a>
+</p>
+
+### [Figure S8](./Figure_SI8):VAMP2 scoring for TICA lag & dimension and Clustering
+
+<p align="center">
+  <a href="./Figure_SI8">
+  <img src="Figure_SI8/FIgure_SI8.png" width="50%" height="50%"/>
+  </a>
+</p>
+
+### [Figure S9](./Figure_SI9): 3 State MSM CK test
+
+<p align="center">
+  <a href="./Figure_SI9">
+  <img src="Figure_SI9/FOXO1_cktest.png" width="50%" height="50%"/>
   </a>
 </p>
