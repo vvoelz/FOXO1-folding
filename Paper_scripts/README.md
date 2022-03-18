@@ -71,11 +71,27 @@
   </a>
 </p>
 
+### [Figure S2](./Figure_S2,4): Tm for DSC and TSA.
+
+<p align="center">
+  <a href="./Figure_S2,4">
+  <img src="Figure_S2,4/initial_confs.png" width="50%" height="50%"/>
+  </a>
+</p>
+
 ### [Figure S3](./Figure_S3): State Transition Counts.
 
 <p align="center">
   <a href="./Figure_S3">
   <img src="Figure_S3/counts.png" width="50%" height="50%"/>
+  </a>
+</p>
+
+### [Figure S4](./Figure_S2,4): Tm for DSC and TSA.
+
+<p align="center">
+  <a href="./Figure_S2,4">
+  <img src="Figure_S2,4/example_trajectories.png" width="50%" height="50%"/>
   </a>
 </p>
 
