@@ -1,5 +1,10 @@
 # Oncogenic mutations in the DNA-binding domain of FOXO1 disrupt folding: quantitative insights from experiments and molecular simulations
-### This Repo contains all the scripts to reproduce figures from the manuscript in companion with the dataset found at XXXX[URL HERE] for files larger than allowable on Github
+### This Repo contains all the scripts to reproduce figures from the manuscript in companion with the OSF(https://osf.io/t7h5b/) dataset for the following files;
+- distances_tica2.5_output.npy
+- distances_cluster_1000_4_centers.npy
+- distances_cluster_1000_4_dtrajs.npy
+- distances_msm_10_100
+- cktest.h5
 
 ## Table of Contents
 ### [Figure 3](./Figure_3): FEP v. Tm
