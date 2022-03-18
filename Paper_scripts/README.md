@@ -115,7 +115,7 @@
 
 <p align="center">
   <a href="./Figure_SI8">
-  <img src="Figure_SI8/FIgure_SI8.png" width="50%" height="50%"/>
+  <img src="Figure_SI8/Figure_SI8.png" width="50%" height="50%"/>
   </a>
 </p>
 
@@ -123,6 +123,6 @@
 
 <p align="center">
   <a href="./Figure_SI9">
-  <img src="Figure_SI9/FOXO1_cktest.png" width="50%" height="50%"/>
+  <img src="Figure_SI9/FOX01_cktest.png" width="50%" height="50%"/>
   </a>
 </p>
